@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kritebh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kritebh" />
+  [![Kritebh GitHub stats](https://github-readme-stats.vercel.app/api?username=kritebh)]
 
 </details>
 
