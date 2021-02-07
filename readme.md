@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Kritebh GitHub stats](https://github-readme-stats.vercel.app/api?username=kritebh)]
+  ![Kritebh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritebh&show_icons=true&theme=dark)
 
 </details>
 
