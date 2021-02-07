@@ -27,21 +27,12 @@
 <br />
 
 
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.geekyishere.com/blog/)
-
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kritebh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kritebh&show_icons=true&hide_border=true" />
+  <img align="left" alt="kritebh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kritebh" />
 
 </details>
 
