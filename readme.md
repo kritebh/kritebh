@@ -1,4 +1,4 @@
-### Hi there, I'm Kritebh - aka [KLB][website] 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kritebh - aka [KLB][website] 
 
 [![Website](https://img.shields.io/website?label=geekyishere.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.geekyishere.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kritebh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkritebh&screen_name=kritebh)
@@ -38,7 +38,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://geekyishere.com)
+➡️ [more blog posts...](https://www.geekyishere.com/blog/)
 
 ---
 
