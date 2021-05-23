@@ -32,6 +32,9 @@
   ![Kritebh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritebh&show_icons=true&theme=dark)
 
 
+![](https://komarev.com/ghpvc/?username=kritebh&label=Visitors&color=blueviolet)
+
+
 [website]: https://www.geekyishere.com
 [twitter]: https://twitter.com/kritebh
 [youtube]: https://www.youtube.com/channel/UC0EAbcYp9bF9TdqYUIaTQxQ
