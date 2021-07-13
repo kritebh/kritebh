@@ -35,7 +35,7 @@
 ![](https://komarev.com/ghpvc/?username=kritebh&label=Visitors&color=blueviolet)
 
 
-[website]: https://www.geekyishere.com
+[website]: https://kritebh.github.io/me
 [twitter]: https://twitter.com/kritebh
 [youtube]: https://www.youtube.com/channel/UC0EAbcYp9bF9TdqYUIaTQxQ
 [instagram]: https://instagram.com/kritebh
