@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning Javascript 🤞
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn Backend Development
+- 🥅 2022 Goals: Learn Full Stack Development
 - ⚡ Fun fact: I love to listen music alone
 
 
 ### Connect with me:
 
-[<img align="left" alt="geekyishere.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="geekyishere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="kritebh.github.io/me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="kritebh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -37,6 +35,4 @@
 
 [website]: https://kritebh.github.io/me
 [twitter]: https://twitter.com/kritebh
-[youtube]: https://www.youtube.com/channel/UC0EAbcYp9bF9TdqYUIaTQxQ
-[instagram]: https://instagram.com/kritebh
 [linkedin]: https://linkedin.com/in/kritebh
