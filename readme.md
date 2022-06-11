@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kritebh - aka [KLB][website] 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Kritebh - aka [KLB][website] 
 
 [![Website](https://img.shields.io/website?label=kritebh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kritebh.github.io/me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kritebh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkritebh&screen_name=kritebh)
