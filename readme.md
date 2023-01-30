@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Javascript 🤞
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn Full Stack Development
+- 🥅 2023 Goals: Learn Full Stack Development
 - ⚡ Fun fact: I love to listen music alone
 
 
