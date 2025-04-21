@@ -5,9 +5,9 @@
 
 ## I'm a Student <img src ="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-student.png" width ="25">, Developer <img src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/man-technologist_1f468-200d-1f4bb.png" width ="25">, and YouTuber!! <img src ="https://cdn.emojidex.com/emoji/seal/YouTube.png?1512927079" width ="25">
 
-- 🌱 I’m currently learning Javascript 🤞
+- 🌱 I’m currently learning Machine Learning 🤞
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn Full Stack Development
+- 🥅 2025 Goals: Learn ML
 - ⚡ Fun fact: I love to listen music alone
 
 
